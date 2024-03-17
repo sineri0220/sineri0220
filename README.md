@@ -6,6 +6,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+
+
+[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sineri0220)](https://www.acmicpc.net/user/sineri0220)
 <!--
 **sineri0220/sineri0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
