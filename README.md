@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jiwoo Shin!
 
 ### Languages & Tools
-
+-The languages & tools that I can use..
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -10,11 +10,12 @@
 
 
 ### Problem solving
-
+- My problem solving skills..
 [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sineri0220)](https://www.acmicpc.net/user/sineri0220)
 
 
 ### Contacts
+- You can contact me by..
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br/>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
