@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Jiwoo Shin!
 
+I'm currently at POSTECH, interested in Computer Science!
+<br/>
+<br/>
 ### Languages & Tools
 The languages & tools that I can use..
 <br/>
@@ -14,9 +17,7 @@ My problem solving skills..
 <br/>
 <br/>
 ![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sineri0220)
-This is the link just in case!
-<br/>
-https://www.acmicpc.net/user/sineri0220
+
 
 
 ### Contacts
