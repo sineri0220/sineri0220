@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jiwoo Shin!
+### Hi there 👋  I'm Jiwoo Shin!
 
 I'm currently in POSTECH, interested in Computer Science!
 <br/>
