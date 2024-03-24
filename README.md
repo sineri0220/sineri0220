@@ -8,6 +8,7 @@ I'm currently in POSTECH, interested in Computer Science!
 ..I'm trying my best:)
 <br/>
 <br/>
+---
 ### Languages & Tools
 The languages & tools that I can use..
 <br/>
@@ -19,7 +20,7 @@ The languages & tools that I can use..
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
+---
 
 ### Problem solving
 My problem solving skills..
@@ -27,7 +28,7 @@ My problem solving skills..
 <br/>
 ![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sineri0220)
 
-
+---
 
 ### Contacts
 You can contact me by..
