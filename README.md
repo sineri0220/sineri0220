@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jiwoo Shin!
 
-I'm currently at POSTECH, interested in Computer Science!
+I'm currently in POSTECH, interested in Computer Science!
 <br/>
 <br/>
 ### Languages & Tools
