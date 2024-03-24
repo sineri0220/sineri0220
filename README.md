@@ -12,11 +12,13 @@ The languages & tools that I can use..
 ### Problem solving
 My problem solving skills..
 <br/>
+<br/>
 ![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sineri0220)](https://www.acmicpc.net/user/sineri0220)
 
 
 ### Contacts
 You can contact me by..
+<br/>
 <br/>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br/>
