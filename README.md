@@ -9,6 +9,7 @@ I'm currently in POSTECH, interested in Computer Science!
 <br/>
 <br/>
 
+---
 ### Languages & Tools
 The languages & tools that I can use..
 <br/>
