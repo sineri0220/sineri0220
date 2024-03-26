@@ -4,7 +4,6 @@ I'm...<br/>
 - currently an undergraduate in POSTECH, interested in computer science!<br/>
 - especially interested in data science/anaysis and machine learning..
 - member of @[PoApper](https://poapper.club/)
-
 <br/>
 <img width="177" alt="스크린샷 2024-03-24 오후 9 31 06" src="https://github.com/sineri0220/sineri0220/assets/161854171/c078b58c-d450-40d3-bb9f-989386ced3dc">
 <br/>
