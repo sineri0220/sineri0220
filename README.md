@@ -11,7 +11,6 @@ I'm...<br/>
 <br/>
 ..I'm trying my best:)
 <br/>
-<br/>
 
 ---
 ### Languages & Tools
