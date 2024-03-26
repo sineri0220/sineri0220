@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Jiwoo Shin!
 
 I'm...<br/>
-- currently an undergraduate in POSTECH, interested in computer science!<br/>
+- currently an undergraduate in POSTECH, studying computer science!<br/>
 - especially interested in data science/anaysis and machine learning..
 - member of @[PoApper](https://poapper.club/)
 <br/>
