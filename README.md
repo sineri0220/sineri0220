@@ -3,6 +3,7 @@
 I'm...<br/>
 - currently an undergraduate in POSTECH, studying computer science!<br/>
 - especially interested in data science/anaysis and machine learning
+- also interested in computer vision and algorithms
 - member of @[PoApper](https://poapper.club/), POSCAT
 
 <img width="177" alt="스크린샷 2024-03-24 오후 9 31 06" src="https://github.com/sineri0220/sineri0220/assets/161854171/c078b58c-d450-40d3-bb9f-989386ced3dc">
@@ -41,7 +42,7 @@ You can contact me by..
 <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jiwoo4052@gmail.com)
 <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jiwoo4052/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tlsjiw_0220/)
 <!--
 **sineri0220/sineri0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanyong-park-338795282/)
