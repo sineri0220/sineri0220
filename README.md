@@ -26,14 +26,6 @@ The languages & tools that I can use..
 
 ---
 
-### Problem solving
-My problem solving skills..
-<br/>
-<br/>
-[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwoo0402)]((https://www.acmicpc.net/user/jiwoo0402))
-
----
-
 ### Contacts
 You can contact me by..
 <br/>
